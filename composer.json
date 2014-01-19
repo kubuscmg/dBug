@@ -1,0 +1,14 @@
+{
+    "name": "kubuscmg/dbug",
+    "description": "Pretty output for many types of variables",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kuba Turek",
+            "email": "kubus1990@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [ "dBug.php" ]
+    }
+}
